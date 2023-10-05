@@ -6,6 +6,7 @@ For this project, I proposed the idea of creating a Furniture E-commerce app whi
 
 ## Project 2: Market Segmentation
 Market segmentation study task: Here I was supposed to get familiar with market segmentation concepts and performed market segmentation on a MC Donald's dataset.
+
 Market segmentation on Indian Electronic Vehicle(EV) industry: Here, I conducted market segmentation and analysis on the EV market in India.
 
 Dataset Details:
